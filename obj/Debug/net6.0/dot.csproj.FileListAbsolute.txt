@@ -1,0 +1,15 @@
+C:\Users\NEO\Desktop\dot\bin\Debug\net6.0\dot.exe
+C:\Users\NEO\Desktop\dot\bin\Debug\net6.0\dot.deps.json
+C:\Users\NEO\Desktop\dot\bin\Debug\net6.0\dot.runtimeconfig.json
+C:\Users\NEO\Desktop\dot\bin\Debug\net6.0\dot.dll
+C:\Users\NEO\Desktop\dot\bin\Debug\net6.0\dot.pdb
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.csproj.AssemblyReference.cache
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.AssemblyInfoInputs.cache
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.AssemblyInfo.cs
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.csproj.CoreCompileInputs.cache
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.dll
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\refint\dot.dll
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.pdb
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\dot.genruntimeconfig.cache
+C:\Users\NEO\Desktop\dot\obj\Debug\net6.0\ref\dot.dll
